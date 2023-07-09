@@ -4,7 +4,7 @@
 <hr>
 <p>😁 I'm Sanjay <br/>
 😄 Pronouns : He/Him -> Sanju<br/>
-🏫 I'm a undergrad<br/>
+🏫 I'm currently an undergrad<br/>
 ⚡ Fun fact : I like anime a lot.<br/></p>
 <hr>
 <h3>🌱 I’m currently learning</h3>
