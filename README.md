@@ -5,7 +5,7 @@
 <p>😁 I'm Sanjay <br/>
 😄 Pronouns : He/Him -> Sanju<br/>
 🏫 I'm a undergrad<br/>
-⚡ Fun fact : I'm an anime freak.<br/></p>
+⚡ Fun fact : I like anime a lot.<br/></p>
 <hr>
 <h3>🌱 I’m currently learning</h3>
 <p> • PHP + MySQL&nbsp;&nbsp; • Unix & ShellScripting&nbsp;&nbsp; • Angular.JS&nbsp;&nbsp; • React.JS</p>
