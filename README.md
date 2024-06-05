@@ -8,7 +8,7 @@
 ⚡ Fun fact : I like anime a lot.<br/></p>
 <hr>
 <h3>🌱 I’m currently learning</h3>
-<p> • PHP + MySQL&nbsp;&nbsp; • Unix & ShellScripting&nbsp;&nbsp; • Angular.JS&nbsp;&nbsp; • React.JS</p>
+<p> • ReactJSL&nbsp;&nbsp; • TypeScript&nbsp;&nbsp; • MongoDB&nbsp;&nbsp; • NodeJS&nbsp;&nbsp; • ExpressJS</p>
 </span>
 <!--
 **Sanju2op/Sanju2op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
