@@ -6,7 +6,7 @@
 😄 Pronouns : He/Him -> Sanju<br/>
 <hr>
 <h3>🌱 I’m currently learning</h3>
-<p> • ReactJSL&nbsp;&nbsp; • TypeScript&nbsp;&nbsp; • MongoDB&nbsp;&nbsp; • NodeJS&nbsp;&nbsp; • ExpressJS</p>
+<p> • React.js&nbsp;&nbsp; • TypeScript&nbsp;&nbsp; • MongoDB&nbsp;&nbsp; • Node.js&nbsp;&nbsp; • Express.js</p>
 </span>
 <!--
 **Sanju2op/Sanju2op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
